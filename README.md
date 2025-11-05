@@ -23,8 +23,6 @@ _Graph-based NLP and GNN architectures for document classification and node repr
 [**Transformer-based Sequence Generation**](https://github.com/qlefebvre/transformer-sequence-generation)  
 _Implemented Transformer and GRU models for symbolic sequence prediction and generative tasks._  
 
-[**Machine Learning for Climate & Energy**](https://github.com/qlefebvre/ml-for-climate-energy)  
-_Explored data-driven approaches for forecasting and optimization in energy systems._  
 
 ---
 

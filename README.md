@@ -30,7 +30,7 @@ _Implemented Transformer and GRU models for symbolic sequence prediction and gen
 ---
 
 ## Education
-- **École Polytechnique (France)** — M.Sc. Data Science, 2023–2026  
+- **École Polytechnique (France)** — M.Sc. Data Science, 2025–2026  
 - **ISEP – Institut Supérieur d'Électronique de Paris** — Diplôme d’ingénieur (Master’s in Computer Science), 2023–2026  
 - **Preparatory Classes (MPSI–PSI)** — Mathematics, Physics & Engineering Science  
 

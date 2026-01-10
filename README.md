@@ -14,6 +14,9 @@ Currently seeking a **6-month research internship (April 2026)** in **AI Systems
 ---
 
 ## Highlighted Projects
+[**Distributional Reinforcement Learning (C51)**](https://github.com/qlefebvre/rl-c51-implementation)  
+_Reproduced Bellemare et al.’s C51; compared distributional vs. value-based agents on stability and performance._ 
+
 [**LLM Fine-Tuning with GRPO**](https://github.com/qlefebvre/llm-finetuning-grpo)  
 _Reinforcement-style fine-tuning of language models to improve stability and instruction following._  
 

@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Quentin Lefebvre  
 
 🎓 Engineering student at [École Polytechnique](https://www.polytechnique.edu/en) and [ISEP Paris](https://www.isep.fr/en/) — pursuing a double degree in **Data Science** and **Computer Science**.  
-Passionate about **artificial intelligence**, **optimization**, and **applied machine learning** for real-world systems and decision-making.  
-Currently seeking a **6-month research internship (April 2026)** in **AI Systems, Reinforcement Learning, or Optimization for Decision-Making and Complex Systems**. 
 
 ---
 

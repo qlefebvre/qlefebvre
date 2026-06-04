@@ -18,12 +18,6 @@ _Reproduced Bellemare et al.’s C51; compared distributional vs. value-based ag
 [**LLM Fine-Tuning with GRPO**](https://github.com/qlefebvre/llm-finetuning-grpo)  
 _Reinforcement-style fine-tuning of language models to improve stability and instruction following._  
 
- (coming soon) [**Context-Augmented Text and Graph Learning**](https://github.com/qlefebvre/graph-nlp-learning) 
-_Graph-based NLP and GNN architectures for document classification and node representation._  
-
- (coming soon) [**Transformer-based Sequence Generation**](https://github.com/qlefebvre/transformer-sequence-generation)
-_Implemented Transformer and GRU models for symbolic sequence prediction and generative tasks._  
-
 
 ---
 
